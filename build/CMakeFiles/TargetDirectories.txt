@@ -1,6 +1,0 @@
-/home/a20666/WorkArea/buildroot-2026.04/9x75_curiosity/lvgl4linux_mchp/build/CMakeFiles/lvgl.dir
-/home/a20666/WorkArea/buildroot-2026.04/9x75_curiosity/lvgl4linux_mchp/build/CMakeFiles/app.dir
-/home/a20666/WorkArea/buildroot-2026.04/9x75_curiosity/lvgl4linux_mchp/build/CMakeFiles/app1.dir
-/home/a20666/WorkArea/buildroot-2026.04/9x75_curiosity/lvgl4linux_mchp/build/CMakeFiles/app2.dir
-/home/a20666/WorkArea/buildroot-2026.04/9x75_curiosity/lvgl4linux_mchp/build/CMakeFiles/edit_cache.dir
-/home/a20666/WorkArea/buildroot-2026.04/9x75_curiosity/lvgl4linux_mchp/build/CMakeFiles/rebuild_cache.dir
